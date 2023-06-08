@@ -23,6 +23,6 @@ Changing the sidebar links: Modify the HTML in the sidebar section to include th
 Updating video previews: Replace the thumbnail images, video titles, authors, and view counts in the video grid section with your own content.
 Feel free to explore and experiment with the code to create your own unique version of the Youtube.com clone.
 
-Credits
+Credits:
 The clone is created by Hadi Baydoun based on the original design of YouTube.com.
 The clone is intended for learning and demonstration purposes only and is not affiliated with or endorsed by YouTube.
