@@ -1,6 +1,8 @@
 This is a clone of the Youtube.com homepage created using HTML and CSS.
 It replicates the main elements and layout of the YouTube website, including the header, sidebar, and video previews.
 
+Live Website: https://youtube-clone-five-beryl.vercel.app/
+
 
 Features
 Header: The header section contains the YouTube logo, a hamburger menu icon, a search bar, search and voice search buttons, an upload icon, YouTube apps icon, notifications icon with a count, and the current user's profile picture.
